@@ -1,18 +1,18 @@
 {
-  "name": "REPLACE_ME",
-  "description": "REPLACE_ME",
-  "version": "1.0.0",
-  "author": "REPLACE_ME",
-  "license": "MIT",
-  "engines": {
-    "node": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "REPLACE_ME"
-  },
-  "dependencies": {
-    "vscode-languageserver": "^8.1.0",
-    "vscode-languageserver-textdocument": "^1.0.8"
-  }
+    "name": "mejsla-lsp-test-server",
+    "description": "För att demonstrera en LSP-driven plugin",
+    "version": "1.0.0",
+    "author": "petter.envall@gmail.com",
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npup/lsp-extension-skeleton"
+    },
+    "dependencies": {
+        "vscode-languageserver": "^8.1.0",
+        "vscode-languageserver-textdocument": "^1.0.8"
+    }
 }
